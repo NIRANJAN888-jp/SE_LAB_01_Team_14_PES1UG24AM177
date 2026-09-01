@@ -255,7 +255,6 @@ Each requirement is aligned with the Corporate Mental Wellness & Counseling Plat
 | **Software Engineering Lab Team** | **14** |
 | **Problem Statement** | **#14 – Corporate Mental Wellness & Counseling Platform** |
 | **Laboratory** | **Lab 1 – Requirements Engineering & UML Use-Case Modelling** |
-| **Department** | **Department of Computer Science & Engineering** |
 | **University** | **PES University** |
 
 ---
